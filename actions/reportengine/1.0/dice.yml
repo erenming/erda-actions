@@ -1,7 +1,7 @@
 ### job 配置项
 jobs:
   reportengine:
-    image: registry.erda.cloud/erda-actions/reportengine:1.2-20210809-412d874c
+    image: registry.cn-hangzhou.aliyuncs.com/terminus/dice-reportengine:1.6-alpha-20220121165857-b74137884 
     resources:
       cpu: 0.1
       mem: 128
